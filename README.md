@@ -1,4 +1,4 @@
-# GuessNumberGame
+# Guess The Number Game
 A simple game written in JavaScript, HTML and CSS. 
 
 ## How to play?
